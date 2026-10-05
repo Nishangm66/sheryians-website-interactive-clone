@@ -1,5 +1,8 @@
 # sheryians-website-interactive-clone
 <br>
 This is my HTML-CSS interactive web learning practice website
+<br>
+Desktop view: <img width="1470" height="956" alt="Screenshot 2026-10-05 at 12 51 21" src="https://github.com/user-attachments/assets/ee0c5ace-b8d8-4ad2-af43-a3bbd533b5d7" />
+<br>
+Mobile view:<img width="349" height="719" alt="Screenshot 2026-10-05 at 13 08 39" src="https://github.com/user-attachments/assets/c44585fb-2e8b-4903-9a26-7e018df242d2" />
 
-desktop view: <img width="1470" height="956" alt="Screenshot 2026-10-05 at 12 51 21" src="https://github.com/user-attachments/assets/ee0c5ace-b8d8-4ad2-af43-a3bbd533b5d7" />
