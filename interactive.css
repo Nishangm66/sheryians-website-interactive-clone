@@ -1,0 +1,59 @@
+@media (max-width: 950px) {
+    nav .part2 {
+        display: none;
+    }
+    nav .part3 span {
+        display: none;
+    }
+    nav .part3 .btn2 {
+        display: none;
+    }
+    nav .part3 .hbtn3 {
+        display: block;
+    }
+
+    section {
+        width: 90%;
+        margin: 44px auto;
+
+    }
+    section .h1-m {
+        font-size: 6vw;
+        line-height: 8vw;
+
+    }
+    section .h4-f {
+        font-size: 13px;
+    }
+    section .paraf {
+        font-size: 15px;
+    }
+    section .det .imgs img {
+        width: 27px;
+        height: 27px;
+    }
+    section .det {
+        flex-direction: column;
+    }
+    section .btn-j {
+        width: 160px;
+        height: 43px;
+        margin: 20px 0;
+    }
+    section .bucket {
+        flex-direction: column;
+    }
+    .t1 img{
+        width: 31px;
+    }
+    .t1 {
+        font-size: 23px
+    }
+    .card .t2 .in{
+        font-size: 23px;
+    }
+    section .bucket .left-bucket .ulock {
+        font-size: 34px;
+
+    }
+}
